@@ -1,6 +1,7 @@
 # CV Tron
 
 ![logo.png](http://ac-5focnst0.clouddn.com/1a6303279b0a69375abc.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Funarxiv%2FCVTron.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Funarxiv%2FCVTron?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/unarxiv/CVTron.svg?branch=master)](https://travis-ci.org/unarxiv/CVTron)
 [![codebeat badge](https://codebeat.co/badges/8c64c6df-a1dd-40a1-9220-570b811282d8)](https://codebeat.co/projects/github-com-unarxiv-cvtron-master)
@@ -35,3 +36,7 @@ Please visit [Contributing guidelines](https://github.com/cv-group/CVTron/blob/m
 # Side Project
 
 If you are looking for the answer to build a server with cvtron built in, you can refer to [CVTron-Serve](https://github.com/cv-group/CVTron-Serve) and [CVTron-Vis](https://github.com/unarxiv/CVTron-Vis). We are still working on the CLI tools for other purposes.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Funarxiv%2FCVTron.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Funarxiv%2FCVTron?ref=badge_large)
